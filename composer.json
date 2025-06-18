@@ -1,0 +1,16 @@
+{
+    "name": "devatmos/wordpres-erp-manager",
+    "description": "Wordpress ERP solution provider plugin",
+    "autoload": {
+        "psr-4": {
+            "Devatmos\\WordpresErpManager\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DevAtmos"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
